@@ -26,7 +26,19 @@
         <input type="submit" value="Login" class="btn solid">
         <p class="social-text">Or Sign in with social platforms</p>
         <div class="social-media">
-          
+          <a href="#" class="social-icon">
+            <i class="bx bxl-facebook"></i>
+          </a>
+          <a href="#" class="social-icon">
+            <i class="bx bxl-twitter"></i>
+          </a>
+          <a href="#" class="social-icon">
+            <i class="bx bxl-google"></i>
+          </a>
+          <a href="#" class="social-icon">
+            <i class="bx bxl-linkedin"></i>
+          </a>
+
       </div>
       </form>
     </div>
