@@ -23,9 +23,15 @@
           <i class="bx bxs-lock"></i>
           <input type="password" placeholder="Password">
         </div>
+        <input type="submit" value="Login" class="btn solid">
+        <p class="social-text">Or Sign in with social platforms</p>
+        <div class="social-media">
+          
+      </div>
       </form>
     </div>
   </div>
+  <div class="panels-container"></div>
 </div>
 </body>
 </html>
