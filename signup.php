@@ -14,20 +14,20 @@
  <div class-="forms-container">
   <div class=signin-signup>
     <form action="" class="sign-in-form">
-        <h2 class ="title">Sign in</h2>
+        <h2 class ="title">Sign up</h2>
         <div class="input-field">
           <i class="bx bxs-user"></i>
           <input type="text" placeholder="Username">
         </div>
         <div class="input-field">
-          <i class="bx bxs-lock"></i>
+          <i class="bx bxs-envelop"></i>
           <input type="password" placeholder="Password">
         </div>
-        <input type="submit" value="Login" class="btn solid">
+        <input type="submit" value="Sign up" class="btn solid">
         <p class="social-text">Or Sign in with social platforms</p>
         <div class="social-media">
           <a href="#" class="social-icon">
-            <i class="bx bxl-facebook"></i>
+            <i class="bx bxl-lock"></i>
           </a>
           <a href="#" class="social-icon">
             <i class="bx bxl-twitter"></i>
