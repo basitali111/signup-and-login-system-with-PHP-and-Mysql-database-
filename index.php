@@ -1,9 +1,11 @@
 <?php
 session_start();
 $_SESSION;
+include 'signup.php';
+include 'login.php';
 ?>
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -17,4 +19,4 @@ $_SESSION;
     <br>
     Hello,username
 </body>
-</html>
+</html> -->
