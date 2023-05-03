@@ -12,7 +12,7 @@
 <body>
 <div class="container">
  <div class-="forms-container">
-  <div class=signin-signup>
+  <div class="signin-signup">
     <form action="" class="sign-in-form">
         <h2 class ="title">Sign up</h2>
         <div class="input-field">
@@ -27,7 +27,7 @@
         <p class="social-text">Or Sign in with social platforms</p>
         <div class="social-media">
           <a href="#" class="social-icon">
-            <i class="bx bxl-lock"></i>
+            <i class="bx bxl-facebook"></i>
           </a>
           <a href="#" class="social-icon">
             <i class="bx bxl-twitter"></i>
