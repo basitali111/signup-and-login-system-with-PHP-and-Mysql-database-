@@ -74,3 +74,52 @@ form{
     font-weight: 500;
 }
 
+.btn{
+    width: 150px;
+    background-color: #5995fd;
+    border: none;
+    outline: none;
+    height: 49px;
+    border-radius: 49px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin: 10px 0;
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+
+.btn:hover{
+    background-color: #4d84e2;
+}
+
+.social-text{
+    padding: 0.7rem 0;
+    font-size: 1rem;
+}
+
+.social-media{
+    display: flex;
+    justify-content: center;
+}
+
+.social-icon{
+    height: 2.875rem;
+    width: 2.875rem; 
+    border: 1px solid #333 ;  
+    margin:0.45rem; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: #333;
+    font-size: 1.5rem;
+    border-radius: 50%;
+    transition: 0.3s;
+}
+
+.social-icon:hover{
+    color: #4481eb;
+    border-color: #4481eb;
+}
