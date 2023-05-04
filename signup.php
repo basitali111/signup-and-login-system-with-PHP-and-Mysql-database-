@@ -7,20 +7,20 @@
     <title>Login</title>
     <link rel="stylesheet"
   href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
-   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" type="text/css" href="style.css?version=1" />
 </head>
 <body>
 <div class="container">
  <div class-="forms-container">
   <div class="signin-signup">
-    <form action="" class="sign-in-form">
+    <form action="" class="sign-up-form">
         <h2 class ="title">Sign up</h2>
         <div class="input-field">
           <i class="bx bxs-user"></i>
           <input type="text" placeholder="Username">
         </div>
         <div class="input-field">
-          <i class="bx bxs-envelop"></i>
+          <i class="bx bxs-envelope"></i>
           <input type="password" placeholder="Password">
         </div>
         <input type="submit" value="Sign up" class="btn solid">

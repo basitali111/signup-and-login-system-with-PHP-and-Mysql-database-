@@ -1,8 +1,8 @@
 <?php
 session_start();
 $_SESSION;
-include 'signup.php';
 include 'login.php';
+include 'signup.php';
 ?>
 
 <!-- <!DOCTYPE html>

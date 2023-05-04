@@ -7,12 +7,12 @@
     <title>Login</title>
     <link rel="stylesheet"
   href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
-   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" type="text/css" href="style.css?version=1" />
 </head>
 <body>
 <div class="container">
  <div class-="forms-container">
-  <div class=signin-signup>
+  <div class="signin-signup">
     <form action="" class="sign-in-form">
         <h2 class ="title">Sign in</h2>
         <div class="input-field">
