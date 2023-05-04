@@ -10,7 +10,7 @@
   <link rel="stylesheet" type="text/css" href="style.css?version=1" />
 </head>
 <body>
-<div class="container">
+
  <div class-="forms-container">
   <div class="signin-signup">
     <form action="" class="sign-up-form">
@@ -42,7 +42,7 @@
       </div>
       </form>
     </div>
-  </div>
+
   <div class="panels-container"></div>
 </div>
 </body>
