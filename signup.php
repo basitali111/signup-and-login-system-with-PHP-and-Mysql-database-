@@ -42,8 +42,6 @@
       </div>
       </form>
     </div>
-
-  <div class="panels-container"></div>
 </div>
 </body>
 </html>

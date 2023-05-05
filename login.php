@@ -51,8 +51,20 @@
 
         </p>
         <button class="btn transparent" id="sign-up-btn" >Sign up</button>
-        <img src="./image/log.svg" alt="image">
+        
       </div>
+      <img src="./image/log.svg" alt="image" class="image" />
+    </div>
+    <div class="panel right-panel">
+      <div class="content">
+        <h3>One Of Us ?</h3>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda quos, earum ipsa ea veritatis, fuga vel architecto necessitatibus, atque minus nisi totam consectetur. Veniam sint dolore perferendis repellendus doloremque eos.
+
+        </p>
+        <button class="btn transparent" id="sign-up-btn" >Sign in</button>
+        
+      </div>
+      <img src="./image/register.svg" alt="image" class="image" />
     </div>
   </div>
 </div>
