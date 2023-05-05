@@ -24,7 +24,8 @@ height: 2000px;
   border-radius: 50%;
   background: linear-gradient(-45deg, #44b1eb,#04befe);
     top: -10%;
-    right: ;
+    right: 48%;
+transform: translateY(-50%);
 }
 
 .forms-container{

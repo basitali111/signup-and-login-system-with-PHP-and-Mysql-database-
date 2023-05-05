@@ -7,7 +7,7 @@
     <title>Login</title>
     <link rel="stylesheet"
   href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
-  <link rel="stylesheet" type="text/css" href="style.css?version=1" />
+  <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 <body>
 <div class="container">
@@ -43,7 +43,18 @@
       </form>
     </div>
   </div>
-  <div class="panels-container"></div>
+  <div class="panels-container">
+    <div class="panel left-panel">
+      <div class="content">
+        <h3>New Here ?</h3>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda quos, earum ipsa ea veritatis, fuga vel architecto necessitatibus, atque minus nisi totam consectetur. Veniam sint dolore perferendis repellendus doloremque eos.
+
+        </p>
+        <button class="btn transparent" id="sign-up-btn" >Sign up</button>
+        <img src="./image/log.svg" alt="image">
+      </div>
+    </div>
+  </div>
 </div>
 </body>
 </html>
