@@ -7,7 +7,7 @@
     <title>Login</title>
     <link rel="stylesheet"
   href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
-  <link rel="stylesheet" type="text/css" href="style.css" />
+  <link rel="stylesheet" type="text/css" href="style.css?version=1" />
 </head>
 <body>
 
