@@ -26,6 +26,7 @@ height: 2000px;
     top: -10%;
     right: 48%;
 transform: translateY(-50%);
+z-index: 6;
 }
 
 .forms-container{
@@ -155,6 +156,7 @@ form{
     width: 50%;
     display: grid;
     grid-template-columns: 1fr;
+    z-index: 5;
 }
 
 .image{
@@ -201,17 +203,24 @@ form{
     font-size: 0.8rem;
 
 }
+
+.right-panel .content,.right-panel .image{
+    transform: translateX(800px);
+}
 .panel{
     display: flex;
     flex-direction: column;
     align-items: flex-end;
     justify-content: space-around;
     text-align: center;
+    z-index: 7;
 }
 
 .left-panel{
 padding:3rem 17% 2rem 12% ;
+pointer-events: all;
 }
 .right-panel{
 padding:3rem 12% 2rem 17% ;
+pointer-events:none ;
 } 
