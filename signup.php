@@ -8,6 +8,7 @@
     <link rel="stylesheet"
   href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
   <link rel="stylesheet" type="text/css" href="style.css" />
+
 </head>
 <body>
 
@@ -43,6 +44,6 @@
       </form>
     </div>
 </div>
-<script src="/app.js"></script>
+<script src="app.js"></script>
 </body>
 </html>

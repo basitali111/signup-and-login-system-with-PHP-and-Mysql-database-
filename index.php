@@ -2,10 +2,10 @@
 session_start();
 $_SESSION;
 include 'login.php';
-include 'signup.php';
+
 ?>
 
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -19,4 +19,4 @@ include 'signup.php';
     <br>
     Hello,username
 </body>
-</html> -->
+</html>
